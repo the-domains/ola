@@ -1,0 +1,14 @@
+layout_spectrum: 0.20814583357423544
+typography_spectrum: 0.8978077587671578
+color:
+  brandStrength: 0.33051643101498485
+  lightness: 0.25884083239361644
+  saturation: 0.883079940918833
+  rhythmicContrast: 0.8575467288028449
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: ola
